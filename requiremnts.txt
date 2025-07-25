@@ -4,10 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
-requests
-os
-pickle
 streamlit-lottie
-seaborn
-json
-dotenv
+requests
+python-dotenv
+
