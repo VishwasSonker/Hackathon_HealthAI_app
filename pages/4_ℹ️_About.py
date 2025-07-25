@@ -47,5 +47,5 @@ st.subheader("🔗 Project Resources")
 
 st.markdown("""
 - [🔢 Dataset](https://drive.google.com/file/d/1vbNlRGGN8SHTm17DmdMmpA-QjJvEh9jH/view?usp=sharing)  
-- [📁 GitHub Repository](https://github.com/Tarun-asati21/Vibecode_hackathon_app)  
+- [📁 GitHub Repository](https://github.com/Tarun-asati21/Hackathon_HealthAI_app)  
 """)
