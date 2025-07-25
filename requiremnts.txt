@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+streamlit
+requests
+os
+pickle
+streamlit_lottie
+json
+dotenv

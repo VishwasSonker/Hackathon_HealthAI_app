@@ -1,0 +1,12 @@
+[theme]
+base="light"
+primaryColor="#E07B39"              # Warm orange accent (buttons, highlights)
+backgroundColor="#FFF9F2"           # Soft creamy off-white background
+secondaryBackgroundColor="#D1B879"  # Darker warm tan/beige sidebar for better contrast
+textColor="#111111"                 # Very dark almost black text for max readability
+font="sans serif"
+
+
+
+[browser]
+title = "SmartAI App"
