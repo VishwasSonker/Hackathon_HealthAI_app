@@ -24,7 +24,7 @@ def load_lottie_file(filepath: str):
     with open(filepath, "r", encoding="utf-8") as f:
         return json.load(f)
 
-lottie_ai = load_lottie_file(r"C:\VScode\hackathon\prototype_app\assets\chatbot_gif.json")  # ✅ use relative path
+lottie_ai = load_lottie_file("assets/chatbot_gif.json")  # ✅ use relative path
 
 # --- Chat message state ---
 if "messages" not in st.session_state:
