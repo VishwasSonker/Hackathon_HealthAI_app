@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # --- Load your dataset ---
-df = pd.read_csv(r"C:\VScode\hackathon\prototype_app\assets\mood_data.csv")  # Replace with your actual file name
+df = pd.read_csv(r"assets/mood_data.csv")  # Replace with your actual file name
 
 # --- Columns for dropdowns ---
 columns_with_mood = df.columns.tolist()                 # includes Mood_Score
