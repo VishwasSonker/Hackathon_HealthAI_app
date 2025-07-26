@@ -16,7 +16,7 @@ def load_lottie_file(filepath: str):
         return json.load(f)
 
 # ✅ Correct relative path to JSON file
-lottie_ai = load_lottie_file(r"C:\VScode\hackathon\prototype_app\assets\ml_gif.json")
+lottie_ai = load_lottie_file("assets/ml_gif.json")
 
 
 model = pickle.load(open(r'C:\VScode\hackathon\prototype_app\assets\mood_scorer.pkl', 'rb'))
