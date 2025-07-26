@@ -5,5 +5,5 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-request
-pyhton-dotenv
+requests
+python-dotenv
