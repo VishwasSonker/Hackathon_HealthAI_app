@@ -19,7 +19,7 @@ def load_lottie_file(filepath: str):
 lottie_ai = load_lottie_file("assets/ml_gif.json")
 
 
-model = pickle.load(open(r'C:\VScode\hackathon\prototype_app\assets\mood_scorer.pkl', 'rb'))
+model = pickle.load(open(r"assets/mood_scorer.pkl", 'rb'))
 
 st.title("🧠 Mood Score Predictor")
 
