@@ -15,7 +15,7 @@ def load_lottie_file(filepath: str):
         return json.load(f)
 
 # ✅ Correct relative path to JSON file
-lottie_ai = load_lottie_file(r"C:\VScode\hackathon\prototype_app\assets\robot_greeting.json")
+lottie_ai = load_lottie_file("assets/robot_greeting.json")
 
 
 # Create two columns: left (content) and right (animation)
