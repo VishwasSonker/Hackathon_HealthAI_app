@@ -1,9 +1,9 @@
+streamlit
+streamlit-lottie
 numpy
 pandas
 matplotlib
+seaborn
 scikit-learn
-requests
-python-dotenv
-streamlit==1.35.0
-streamlit-lottie>=0.0.5
-seaborn==0.13.2
+request
+pyhton-dotenv
